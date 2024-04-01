@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Bai Jamjuree", sans-serif;
+}
+h1{
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+  font-size: 1.5rem;
+}
+h2{
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+  font-size: 1rem;
+}
+p{
+  color: hsl(201, 11%, 66%);
+}
